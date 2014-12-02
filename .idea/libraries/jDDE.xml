@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jDDE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jDDE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
